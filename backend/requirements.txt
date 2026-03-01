@@ -1,0 +1,10 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.4
+sse-starlette==2.2.1
+aiofiles==24.1.0
+mistralai>=1.2.0
+python-dotenv==1.0.1
+langgraph==0.2.60
+langchain-core==0.3.28
