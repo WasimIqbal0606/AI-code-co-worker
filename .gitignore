@@ -52,6 +52,7 @@ build/
 # Uploads and Archive Files
 uploads/
 *.zip
+!taskflow_test_project.zip
 *.tar
 *.tar.gz
 *.rar
